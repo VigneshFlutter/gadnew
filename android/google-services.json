@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566649940316",
+    "project_id": "tetrads-27c52",
+    "storage_bucket": "tetrads-27c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566649940316:android:398dc5767c0ddff993f999",
+        "android_client_info": {
+          "package_name": "com.tetrads.tetrads.tetrads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566649940316-i8vp5kb8g8s99sf7p43avjn1n3km7ivq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetrads.tetrads.tetrads",
+            "certificate_hash": "f702197a3a8b4927e8ae0cb23504d4505df5e633"
+          }
+        },
+        {
+          "client_id": "566649940316-u8oqhju6ihu843jmqr8b0g7gvfe0kgki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgcCWARlIZjGYtpyaZKLvm4BlkqPZnhoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566649940316-u8oqhju6ihu843jmqr8b0g7gvfe0kgki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
